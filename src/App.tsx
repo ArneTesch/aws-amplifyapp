@@ -10,7 +10,7 @@ const App: React.FC = () => {
     <div className="App">
       <header>
         <img src={ logo } className="App-logo" alt="logo" />
-        <h1>We now have Auth!</h1>
+        <h1>We now have Authentication!</h1>
       </header>
       <AmplifySignOut />
     </div>
